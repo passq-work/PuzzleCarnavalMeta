@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "660364415830",
+    "firebase_url": "https://puzzle-carnaval.firebaseio.com",
+    "project_id": "puzzle-carnaval",
+    "storage_bucket": "puzzle-carnaval.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660364415830:android:ffda1f59cb98e162a43cf7",
+        "android_client_info": {
+          "package_name": "com.Rocot.PuzzleCarnaval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660364415830-9menpppk0d42lfvkuk6n85si99um03qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRQpL88JW73UZXOTdHRecc-io9g5X4JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660364415830-9menpppk0d42lfvkuk6n85si99um03qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660364415830:android:459b1e28b47ee66aa43cf7",
+        "android_client_info": {
+          "package_name": "com.Rocot.Puzzlecarnaval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660364415830-9menpppk0d42lfvkuk6n85si99um03qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRQpL88JW73UZXOTdHRecc-io9g5X4JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660364415830-9menpppk0d42lfvkuk6n85si99um03qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
